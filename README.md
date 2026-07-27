@@ -91,6 +91,11 @@ I am a Full-Stack Developer and 3rd-year IT student at ISET Béja specializing i
 - 🤖 Introduction to Creative AI
 - 🏅 APIE Challenge
 - 📣 Digital Marketing
+- 💼 AI for Business Professionals — HP
+- 📱 Marketing sur les réseaux sociaux — HP
+- 💬 Communications professionnelles — HP
+- 🛡️ Introduction to Cyber security Awareness — HP
+- 🌐 Sites Web efficaces — HP
 
 ---
 
