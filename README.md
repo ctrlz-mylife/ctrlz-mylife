@@ -20,25 +20,25 @@
 
 # 👨‍💻 About Me
 
-I am a Full-Stack Developer and 3rd-year IT student at ISET Béja specializing in Software Engineering (DSI)[cite: 1]. Passionate about clean architecture and modular design, I build scalable end-to-end web applications and interactive systems using React, Angular, Node.js, Express, PostgreSQL, Docker, and Java enterprise technologies. As I prepare for my PFE, I am looking to join an ambitious team to deliver high-impact software solutions.
+I am a Full-Stack Developer and 3rd-year IT student at ISET Béja specializing in Software Engineering (DSI). Passionate about clean architecture and modular design, I build scalable end-to-end web applications and interactive systems using React, Angular, Node.js, Express, PostgreSQL, Docker, and Java enterprise technologies. As I prepare for my PFE, I am looking to join an ambitious team to deliver high-impact software solutions.
 
 ---
 
 # 💼 Professional Experience
 
 ### 💻 Summer Web Development Intern — MajestEYE[cite: 1]
-*(June 2024, July 2026)*[cite: 1]
+*(June 2024, July 2026)*
 - Designing and developing a full-stack, real-time multiplayer web application for the strategy board game Risk using React, Node.js, Express, and PostgreSQL.
 - Implemented bidirectional communication with Socket.io for live gameplay synchronization and dynamic map updates using Material UI and D3-geo.
-- Developed and maintained web application features, database designs, and data modeling for business applications[cite: 1].
+- Developed and maintained web application features, database designs, and data modeling for business applications.
 
-### 🖥 IT Intern — Tunisia Telecom[cite: 1]
-*(January 2026 – February 2026)*[cite: 1]
-- Provided technical support and maintained operational systems[cite: 1].
+### 🖥 IT Intern — Tunisia Telecom
+*(January 2026 – February 2026)*
+- Provided technical support and maintained operational systems.
 
-### 🖥 IT Intern — Tunisia Telecom[cite: 1]
-*(January 2025 – February 2025)*[cite: 1]
-- Monitored network performance and actively troubleshot connectivity issues[cite: 1].
+### 🖥 IT Intern — Tunisia Telecom
+*(January 2025 – February 2025)*
+- Monitored network performance and actively troubleshot connectivity issues.
 
 ---
 
@@ -86,11 +86,11 @@ I am a Full-Stack Developer and 3rd-year IT student at ISET Béja specializing i
 
 # 🏆 Certifications
 
-- 🐍 Cisco Python Essentials 1[cite: 1]
-- 📊 Data Science Essentials with Python[cite: 1]
-- 🤖 Introduction to Creative AI[cite: 1]
-- 🏅 APIE Challenge[cite: 1]
-- 📣 Digital Marketing[cite: 1]
+- 🐍 Cisco Python Essentials 1
+- 📊 Data Science Essentials with Python
+- 🤖 Introduction to Creative AI
+- 🏅 APIE Challenge
+- 📣 Digital Marketing
 
 ---
 
@@ -115,10 +115,10 @@ I'm currently building projects that showcase my skills in software engineering,
 # 🤝 Leadership
 
 🎨 **Media Committee Manager**  
-Beyond the Book Club (ISLAIB)[cite: 1]
+Beyond the Book Club (ISLAIB)
 
 🎯 **Events Manager**  
-Dreamers Club (ISET Beja)[cite: 1]
+Dreamers Club (ISET Beja)
 
 ---
 
@@ -140,7 +140,7 @@ Dreamers Club (ISET Beja)[cite: 1]
 
 </p>
 
-📞 **Phone:** +216 97 403 778[cite: 1]
+📞 **Phone:** +216 97 403 778
 
 ---
 
