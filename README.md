@@ -1,145 +1,203 @@
-<h1 align="center">Hi 👋, I'm Elâa Aloui</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering Student • Full Stack Developer • AI Enthusiast
-</h3>
+# Hi 👋, I'm Elâa Aloui
+
+### Software Engineering Student • Full Stack Developer • AI Enthusiast
 
 <p align="center">
   <a href="https://github.com/alouielaaaloui-cpul">
-    <img src="https://komarev.com/ghpvc/?username=alouielaaaloui-cpul&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=alouielaaaloui-cpul&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
 
   <a href="https://github.com/alouielaaaloui-cpul?tab=followers">
-    <img src="https://img.shields.io/github/followers/alouielaaaloui-cpul?style=social" />
+    <img src="https://img.shields.io/github/followers/alouielaaaloui-cpul?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+
+  <a href="https://github.com/alouielaaaloui-cpul">
+    <img src="https://img.shields.io/github/stars/alouielaaaloui-cpul?style=for-the-badge&logo=github&label=Stars"/>
   </a>
 </p>
 
----
-
-## 👋 About Me
-
-🎓 Third-Year Computer Science Student specializing in **Information Systems Development**.
-
-💻 Passionate about building modern web applications, solving real-world problems, and continuously learning new technologies.
-
-🚀 Currently exploring:
-
-- Software Engineering
-- Artificial Intelligence
-- Backend Development
-- Machine Learning
+</div>
 
 ---
 
-## 💼 Experience
+# 👨‍💻 About Me
 
-### 💻 Web Development Intern — MajestEYE
+I'm a **third-year Computer Science student** specializing in **Information Systems Development** at the Higher Institute of Technological Studies of Béja.
 
-- Developed and maintained web application features
-- Participated in database design
-- Improved application performance
-- Collaborated with developers using modern technologies
+I'm passionate about building scalable software, learning modern technologies, and solving real-world problems through code.
 
-### 🖥️ IT Intern — Tunisia Telecom
+Currently, I'm focusing on:
 
-- Computer technical support
-- Network monitoring
-- Troubleshooting connectivity issues
+- 🚀 Full Stack Development
+- 🤖 Artificial Intelligence
+- ⚙️ Software Engineering
+- 🗄 Database Systems
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Professional Experience
+
+### 💻 Summer Web Development Intern — MajestEYE
+
+- Developed and maintained web application features.
+- Participated in database design and data modeling.
+- Tested and debugged applications.
+- Collaborated with developers to deliver business solutions.
+
+### 🖥 IT Intern — Tunisia Telecom
+
+- Provided technical support.
+- Monitored network performance.
+- Troubleshot connectivity issues.
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
 
-### Web
+<img src="https://skillicons.dev/icons?i=python"/>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git"/>
 
-## 📊 GitHub Statistics
+<img src="https://skillicons.dev/icons?i=github"/>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alouielaaaloui-cpul&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alouielaaaloui-cpul&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alouielaaaloui-cpul&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
 
 </p>
 
 ---
 
-## 🏅 Certifications
+# 📊 GitHub Analytics
 
-- Python Essentials 1 (Cisco)
-- Data Science Essentials with Python
-- Introduction to Creative AI
-- APIE Challenge
-- Digital Marketing
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alouielaaaloui-cpul&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alouielaaaloui-cpul&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=alouielaaaloui-cpul&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alouielaaaloui-cpul&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-## 🌟 Featured Projects
+# 🏆 Certifications
 
-🚀 Portfolio Website *(Coming Soon)*
-
-🤖 AI Project *(Coming Soon)*
-
-💻 Java Desktop Application *(Coming Soon)*
+- 🐍 Cisco Python Essentials 1
+- 📊 Data Science Essentials with Python
+- 🤖 Introduction to Creative AI
+- 🏅 APIE Challenge
+- 📣 Digital Marketing
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Machine Learning
-- REST APIs
+- Backend Development
 - Clean Architecture
-- Software Design Patterns
+- REST APIs
+- Design Patterns
 
 ---
 
-## 🤝 Leadership
+# 🚀 Featured Projects
 
-🎨 Media Committee Manager — Beyond the Book Club
+I'm currently building projects that showcase my skills in software engineering, web development, and artificial intelligence.
 
-🎯 Events Manager — Dreamers Club
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/elaa-aloui-24b382325/
-- 📧 Email: alouielaaaloui@gmail.com
+⭐ More projects coming soon!
 
 ---
 
-<p align="center">
+# 🤝 Leadership
 
-<i>"Learning by building, growing by sharing."</i>
+🎨 **Media Committee Manager**  
+Beyond the Book Club
+
+🎯 **Events Manager**  
+Dreamers Club
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:alouielaaaloui@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/elaa-aloui-24b382325/">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="https://github.com/alouielaaaloui-cpul">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
 
 </p>
+
+---
+
+<div align="center">
+
+### 💬 "Code. Learn. Build. Repeat."
+
+Thanks for visiting my profile!
+
+</div>
