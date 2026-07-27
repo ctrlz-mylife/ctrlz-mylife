@@ -1,203 +1,60 @@
-<div align="center">
-
-# Hi 👋, I'm Elâa Aloui
-
-### Software Engineering Student • Full Stack Developer • AI Enthusiast
+<h1 align="center">Hi 👋, I'm Elâa Aloui</h1>
+<h3 align="center">Computer Science Student | Software Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/alouielaaaloui-cpul">
-    <img src="https://komarev.com/ghpvc/?username=alouielaaaloui-cpul&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/alouielaaaloui-cpul?tab=followers">
-    <img src="https://img.shields.io/github/followers/alouielaaaloui-cpul?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-
-  <a href="https://github.com/alouielaaaloui-cpul">
-    <img src="https://img.shields.io/github/stars/alouielaaaloui-cpul?style=for-the-badge&logo=github&label=Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=alouielaaaloui-cpul&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
-</div>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science student
+- 💻 Passionate about Software Engineering and AI
+- 🌱 Currently learning Advanced Programming & Machine Learning
+- 🚀 Building projects to improve real-world problem solving
+- 📫 Reach me: your-email@example.com
 
 ---
 
-# 👨‍💻 About Me
+### 🛠️ Tech Stack
 
-I'm a **third-year Computer Science student** specializing in **Information Systems Development** at the Higher Institute of Technological Studies of Béja.
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-I'm passionate about building scalable software, learning modern technologies, and solving real-world problems through code.
+#### Web Development
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Currently, I'm focusing on:
-
-- 🚀 Full Stack Development
-- 🤖 Artificial Intelligence
-- ⚙️ Software Engineering
-- 🗄 Database Systems
-
----
-
-# 💼 Professional Experience
-
-### 💻 Summer Web Development Intern — MajestEYE
-
-- Developed and maintained web application features.
-- Participated in database design and data modeling.
-- Tested and debugged applications.
-- Collaborated with developers to deliver business solutions.
-
-### 🖥 IT Intern — Tunisia Telecom
-
-- Provided technical support.
-- Monitored network performance.
-- Troubleshot connectivity issues.
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 🛠 Tech Stack
+### 📊 GitHub Stats
 
-### Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alouielaaaloui-cpul&show_icons=true&theme=tokyonight)
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alouielaaaloui-cpul&layout=compact&theme=tokyonight)
 
 ---
 
-# 📊 GitHub Analytics
+### 🚀 Featured Projects
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alouielaaaloui-cpul&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alouielaaaloui-cpul&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alouielaaaloui-cpul&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alouielaaaloui-cpul&theme=tokyo-night"/>
-
-</p>
+- 🔹 Project 1 – Brief description
+- 🔹 Project 2 – Brief description
+- 🔹 Project 3 – Brief description
 
 ---
 
-# 🏆 Certifications
+### 🤝 Connect With Me
 
-- 🐍 Cisco Python Essentials 1
-- 📊 Data Science Essentials with Python
-- 🤖 Introduction to Creative AI
-- 🏅 APIE Challenge
-- 📣 Digital Marketing
-
----
-
-# 🌱 Currently Learning
-
-- Machine Learning
-- Backend Development
-- Clean Architecture
-- REST APIs
-- Design Patterns
-
----
-
-# 🚀 Featured Projects
-
-I'm currently building projects that showcase my skills in software engineering, web development, and artificial intelligence.
-
-⭐ More projects coming soon!
-
----
-
-# 🤝 Leadership
-
-🎨 **Media Committee Manager**  
-Beyond the Book Club
-
-🎯 **Events Manager**  
-Dreamers Club
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="mailto:alouielaaaloui@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/elaa-aloui-24b382325/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="https://github.com/alouielaaaloui-cpul">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💬 "Code. Learn. Build. Repeat."
-
-Thanks for visiting my profile!
-
-</div>
+- LinkedIn: your-linkedin
+- Portfolio: your-website
+- Email: your-email@example.com
