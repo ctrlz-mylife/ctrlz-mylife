@@ -50,29 +50,31 @@ I am a Full-Stack Developer and 3rd-year IT student at ISET Béja specializing i
 <img src="https://skillicons.dev/icons?i=java"/>
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=php"/>
 <img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=angular"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=symfony"/>
 <img src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
-### Frontend & Database
+### Databases & Modeling
 <p>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 <img src="https://skillicons.dev/icons?i=postgresql"/>
+<img src="https://skillicons.dev/icons?i=oracle"/>
 </p>
+- **Core Engineering:** Database Design, Data Modeling, Jakarta EE, REST APIs, Clean Architecture
 
-### Tools
+### Tools & OS
 <p>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=linux"/>
 </p>
-
 ---
 
 # 🌐 Languages
