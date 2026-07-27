@@ -5,12 +5,12 @@
 ### 3rd-year Information Technology Student • Full-Stack Developer • AI Enthusiast
 
 <p align="center">
-  <a href="https://github.com/alouielaaaloui-cpul">
-    <img src="https://img.shields.io/github/followers/alouielaaaloui-cpul?style=for-the-badge&logo=github&label=Followers"/>
+  <a href="https://github.com/ctrl-z-my-life">
+    <img src="https://img.shields.io/github/followers/ctrl-z-my-life?style=for-the-badge&logo=github&label=Followers"/>
   </a>
 
-  <a href="https://github.com/alouielaaaloui-cpul">
-    <img src="https://img.shields.io/github/stars/alouielaaaloui-cpul?style=for-the-badge&logo=github&label=Stars"/>
+  <a href="https://github.com/ctrl-z-my-life">
+    <img src="https://img.shields.io/github/stars/ctrl-z-my-life?style=for-the-badge&logo=github&label=Stars"/>
   </a>
 </p>
 
@@ -32,11 +32,11 @@ I am a Full-Stack Developer and 3rd-year IT student at ISET Béja specializing i
 - Implemented bidirectional communication with Socket.io for live gameplay synchronization and dynamic map updates using Material UI and D3-geo.
 - Developed and maintained web application features, database designs, and data modeling for business applications.
 
-### 🖥 IT Intern — Tunisia Telecom
+### 🖥 IT Intern — Tunisia Telecom[cite: 1]
 *(January 2026 – February 2026)*
 - Provided technical support and maintained operational systems.
 
-### 🖥 IT Intern — Tunisia Telecom
+### 🖥 IT Intern — Tunisia Telecom[cite: 1]
 *(January 2025 – February 2025)*
 - Monitored network performance and actively troubleshot connectivity issues.
 
@@ -141,13 +141,13 @@ Dreamers Club (ISET Beja)
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/alouielaaaloui-cpul">
+<a href="https://github.com/ctrl-z-my-life">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
-📞 **Phone:** +216 97 403 778
+📞 **Phone:** +216 97 403 778[cite: 1]
 
 ---
 
