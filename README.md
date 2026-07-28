@@ -4,16 +4,6 @@
 
 ### 3rd-year Information Technology Student • Full-Stack Developer • AI Enthusiast
 
-<p align="center">
-  <a href="https://github.com/ctrl-z-my-life">
-    <img src="https://img.shields.io/github/followers/ctrl-z-my-life?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-
-  <a href="https://github.com/ctrl-z-my-life">
-    <img src="https://img.shields.io/github/stars/ctrl-z-my-life?style=for-the-badge&logo=github&label=Stars"/>
-  </a>
-</p>
-
 </div>
 
 ---
